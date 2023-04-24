@@ -38,10 +38,10 @@ En este trabajo práctico nos limitaremos a pronosticar los resultados de los pa
 
 ## Herramientas que se han utilizado en el proceso 
 
-- [Java](https://www.java.com/) - Java 17
-- [Maven](https://maven.apache.org/) - Apache Maven 3.9
-- [Opencsv](https://opencsv.sourceforge.net/) - Opencsv 5.7.1
-- [Lombok](https://projectlombok.org/) - Lombok 1.18.26
-- [JUnit](https://junit.org/junit5/) - JUnit Jupiter 5.5.2
-- [MySQL Connector](https://mvnrepository.com/artifact/mysql/mysql-connector-java) - MySQL Connector Java 8.0.32
+- [Java](https://www.java.com/) - Version 17
+- [Maven](https://maven.apache.org/) - Version 3.9
+- [Opencsv](https://opencsv.sourceforge.net/) - Version 5.7.1
+- [Lombok](https://projectlombok.org/) - Version 1.18.26
+- [JUnit](https://junit.org/junit5/) - Version 5.5.2
+- [MySQL Connector](https://mvnrepository.com/artifact/mysql/mysql-connector-java) - MySQL Version 8.0.32
 
