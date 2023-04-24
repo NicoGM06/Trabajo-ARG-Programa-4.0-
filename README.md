@@ -1,4 +1,4 @@
-<h2 align="center">TP Integrador - Comisión 145</h2>
+<h2 align="center">Trabajo Integrador - Comisión 145</h2>
 
 ![Texto alternativo](https://user-images.githubusercontent.com/126585820/234104067-61b1d289-3566-4ff8-80e5-40a6d4905b47.png)
 
