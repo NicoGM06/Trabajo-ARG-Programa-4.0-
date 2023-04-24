@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"> Trabajo realizado para el curso de Argentina programa 4.0, realizado por alumno Lamendola, Nicolás en conjunto con Lorenzo, Romano.
+<p align="right"> Trabajo realizado para el curso de Argentina programa 4.0, realizado por alumno Lamendola, Nicolás en conjunto con Lorenzo, Romano.
     <br> 
 </p>
 
