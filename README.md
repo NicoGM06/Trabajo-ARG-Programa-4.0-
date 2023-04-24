@@ -11,7 +11,7 @@
 
 ## Información sobre el Trabajo Integrador
 
-Hemos realizado el trabajo integrador en la medida de lo posible para el primer paso de Argentina Programa 4.0. El mismo, se trata sobre producir un programa realcionado a los pronósticos deportivos.
+Hemos realizado el trabajo integrador en la medida de lo posible para el primer paso de Argentina Programa 4.0. El mismo, se trata sobre producir un programa relacionado a los pronósticos deportivos.
 
 ### Introducción y Objetivo
 
